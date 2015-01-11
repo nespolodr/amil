@@ -27,6 +27,9 @@ import br.com.nespolo.teste.amil.constants.WeaponNames;
 import br.com.nespolo.teste.amil.settings.Params;
 import br.com.nespolo.teste.amil.util.DateUtils;
 
+/**
+ * Usado somente para gerar arquivo de LOG
+ */
 public class BaseTest extends TestCase {
 	public BaseTest(String testName) {
 		super(testName);

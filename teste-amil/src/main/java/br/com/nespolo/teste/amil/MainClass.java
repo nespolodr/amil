@@ -19,6 +19,15 @@ import br.com.nespolo.teste.amil.report.PlayerReport;
 import br.com.nespolo.teste.amil.report.WeaponReport;
 import br.com.nespolo.teste.amil.util.InputUtils;
 
+/**
+ * Lê arquivos de log em diretório e gera relatório.
+ * <br/><br/>
+ * Arquivos de log devem estar em:<br/>
+ * 'home'/amil/match_log
+ * <br/><br/>
+ * Arquivos de relatório serão gerados em:<br/>
+ * 'home'/amil/matches_report
+ */
 public class MainClass 
 {
 	private static final String END = "\r\n";
