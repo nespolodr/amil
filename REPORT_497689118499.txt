@@ -1,70 +1,333 @@
-MATCH[994325997937491968]
+MATCH[7582960750411382784]
 
 PLAYERS
-Player: Pauline               Weapon: Catalyst         Kills: 6       Deaths: 5      Streak: 4      
-Player: Yan                   Weapon: Crossbow         Kills: 7       Deaths: 8      Streak: 3      
-Player: Neil                  Weapon: SniperRifle      Kills: 4       Deaths: 4      Streak: 3      
-Player: Jaunita               Weapon: SchmidtScout     Kills: 3       Deaths: 2      Streak: 2      
-Player: Shirley               Weapon: DesertEagle      Kills: 6       Deaths: 6      Streak: 2      
-Player: Jessie                Weapon: Catalyst         Kills: 4       Deaths: 8      Streak: 2      
-Player: Emelia                Weapon: Shotgun          Kills: 5       Deaths: 3      Streak: 2      
-Player: Young                 Weapon: Beretta          Kills: 3       Deaths: 5      Streak: 1      
-Player: Nelida                Weapon: Crossbow         Kills: 8       Deaths: 5      Streak: 6      
-Player: Johnette              Weapon: MP5Navy          Kills: 5       Deaths: 6      Streak: 2      
-Player: Jerrica               Weapon: RocketLaucher    Kills: 6       Deaths: 2      Streak: 4      
-Player: Nila                  Weapon: Glock            Kills: 4       Deaths: 3      Streak: 3      
-Player: Toni                  Weapon: Beretta          Kills: 5       Deaths: 4      Streak: 3      
-Player: Juli                  Weapon: Lasergun         Kills: 5       Deaths: 7      Streak: 2      
-Player: Huong                 Weapon: SchmidtScout     Kills: 1       Deaths: 6      Streak: 1      
-Player: Christiane            Weapon: ThrowingAxes     Kills: 4       Deaths: 4      Streak: 2      
-Player: Carisa                Weapon: Lightning        Kills: 4       Deaths: 2      Streak: 3      
+Player: Chauncey              Weapon: Shotgun          Kills: 11      Deaths: 11     Streak: 4      
+Player: Carisa                Weapon: Lightning        Kills: 12      Deaths: 15     Streak: 5      
+Player: Jaunita               Weapon: RPG              Kills: 10      Deaths: 7      Streak: 6      
+Player: Bobbi                 Weapon: SniperRifle      Kills: 8       Deaths: 8      Streak: 4      
 
-Most Kills: Nelida with 8 kills. A crazy murder!!
-Most Deaths: Yan with 8 deaths. Little noob!!
-Most Streak: Nelida with 6 streak kills. Rambo!!
+Most Kills: Carisa with 12 kills. A crazy murder!!
+Most Deaths: Carisa with 15 deaths. Little noob!!
+Most Streak: Jaunita with 6 streak kills. Rambo!!
 
 WEAPONS
-Weapon: Catalyst              Kills: 10      Used by: 2     
-Weapon: SniperRifle           Kills: 4       Used by: 1     
-Weapon: DesertEagle           Kills: 6       Used by: 1     
-Weapon: Shotgun               Kills: 5       Used by: 1     
-Weapon: Beretta               Kills: 8       Used by: 2     
-Weapon: Crossbow              Kills: 15      Used by: 2     
-Weapon: Glock                 Kills: 4       Used by: 1     
-Weapon: RocketLaucher         Kills: 6       Used by: 1     
-Weapon: Lasergun              Kills: 5       Used by: 1     
-Weapon: MP5Navy               Kills: 5       Used by: 1     
-Weapon: ThrowingAxes          Kills: 4       Used by: 1     
-Weapon: SchmidtScout          Kills: 4       Used by: 2     
-Weapon: Lightning             Kills: 4       Used by: 1     
+Weapon: Shotgun               Kills: 11      Used by: 1     
+Weapon: Lightning             Kills: 12      Used by: 1     
+Weapon: RPG                   Kills: 10      Used by: 1     
+Weapon: SniperRifle           Kills: 8       Used by: 1     
 
-Best Weapon: Crossbow - 15 total kills.
-Most Used Weapon: Catalyst - 2 players used it.
+Best Weapon: Lightning - 12 total kills.
+Most Used Weapon: Shotgun - 1 players used it.
 -------------------------------------------------------------
 
-MATCH[2743859004450013184]
+MATCH[711765142764781568]
 
 PLAYERS
-Player: Kristian              Weapon: Catalyst         Kills: 6       Deaths: 12     Streak: 1      
-Player: Emelia                Weapon: Dagger           Kills: 3       Deaths: 12     Streak: 1      
-Player: Oliver                Weapon: M16              Kills: 6       Deaths: 9      Streak: 2      
-Player: Larissa               Weapon: Minigun          Kills: 13      Deaths: 5      Streak: 4      
-Player: Toni                  Weapon: ThrowingAxes     Kills: 9       Deaths: 6      Streak: 2      
-Player: Zulema                Weapon: USP              Kills: 12      Deaths: 5      Streak: 6      
+Player: Hoa                   Weapon: Glock            Kills: 9       Deaths: 7      Streak: 3      
+Player: Kristian              Weapon: M16              Kills: 3       Deaths: 3      Streak: 2      
+Player: Mafalda               Weapon: Dagger           Kills: 9       Deaths: 13     Streak: 3      
+Player: Justin                Weapon: M4A1             Kills: 12      Deaths: 11     Streak: 3      
+Player: Rudy                  Weapon: Shotgun          Kills: 9       Deaths: 6      Streak: 3      
+Player: Glayds                Weapon: SchmidtScout     Kills: 6       Deaths: 4      Streak: 3      
+Player: Neil                  Weapon: Minigun          Kills: 8       Deaths: 12     Streak: 4      
 
-Most Kills: Larissa with 13 kills. A crazy murder!!
-Most Deaths: Kristian with 12 deaths. Little noob!!
-Most Streak: Zulema with 6 streak kills. Rambo!!
+Most Kills: Justin with 12 kills. A crazy murder!!
+Most Deaths: Mafalda with 13 deaths. Little noob!!
+Most Streak: Neil with 4 streak kills. Rambo!!
 
 WEAPONS
-Weapon: Catalyst              Kills: 6       Used by: 1     
-Weapon: M16                   Kills: 6       Used by: 1     
-Weapon: Minigun               Kills: 13      Used by: 1     
-Weapon: USP                   Kills: 12      Used by: 1     
-Weapon: ThrowingAxes          Kills: 9       Used by: 1     
-Weapon: Dagger                Kills: 3       Used by: 1     
+Weapon: Glock                 Kills: 9       Used by: 1     
+Weapon: Dagger                Kills: 9       Used by: 1     
+Weapon: Shotgun               Kills: 9       Used by: 1     
+Weapon: M4A1                  Kills: 12      Used by: 1     
+Weapon: Minigun               Kills: 8       Used by: 1     
+Weapon: SchmidtScout          Kills: 6       Used by: 1     
+Weapon: M16                   Kills: 3       Used by: 1     
 
-Best Weapon: Minigun - 13 total kills.
-Most Used Weapon: Catalyst - 1 players used it.
+Best Weapon: M4A1 - 12 total kills.
+Most Used Weapon: Glock - 1 players used it.
+-------------------------------------------------------------
+
+MATCH[590885384162902016]
+
+PLAYERS
+Player: Jessie                Weapon: AK47             Kills: 8       Deaths: 6      Streak: 4      
+Player: Oliver                Weapon: RocketLaucher    Kills: 3       Deaths: 4      Streak: 2      
+Player: Twanna                Weapon: RPG              Kills: 4       Deaths: 3      Streak: 2      
+Player: Meggan                Weapon: Lightning        Kills: 3       Deaths: 7      Streak: 1      
+Player: Juli                  Weapon: Spear            Kills: 1       Deaths: 5      Streak: 1      
+Player: Kristle               Weapon: Crossbow         Kills: 4       Deaths: 7      Streak: 1      
+Player: Joannie               Weapon: Beretta          Kills: 6       Deaths: 10     Streak: 2      
+Player: Lisabeth              Weapon: RocketLaucher    Kills: 12      Deaths: 3      Streak: 6      
+Player: Jodie                 Weapon: Rock             Kills: 2       Deaths: 2      Streak: 1      
+Player: Victor                Weapon: Spear            Kills: 4       Deaths: 5      Streak: 1      
+Player: Toni                  Weapon: AK47             Kills: 2       Deaths: 7      Streak: 1      
+Player: Neil                  Weapon: Fireball         Kills: 7       Deaths: 6      Streak: 5      
+Player: Christiane            Weapon: Shotgun          Kills: 3       Deaths: 2      Streak: 2      
+Player: Kristian              Weapon: RocketLaucher    Kills: 3       Deaths: 3      Streak: 2      
+Player: Nelida                Weapon: ThrowingAxes     Kills: 7       Deaths: 1      Streak: 7      
+Player: Kayce                 Weapon: Dagger           Kills: 3       Deaths: 4      Streak: 2      
+Player: Johnette              Weapon: M4A1             Kills: 4       Deaths: 3      Streak: 3      
+Player: Jaunita               Weapon: RocketLaucher    Kills: 6       Deaths: 2      Streak: 3      
+Player: Shameka               Weapon: M16              Kills: 2       Deaths: 4      Streak: 2      
+
+Most Kills: Lisabeth with 12 kills. A crazy murder!!
+Most Deaths: Joannie with 10 deaths. Little noob!!
+Most Streak: Nelida with 7 streak kills. Rambo!!
+
+WEAPONS
+Weapon: AK47                  Kills: 10      Used by: 2     
+Weapon: RPG                   Kills: 4       Used by: 1     
+Weapon: Lightning             Kills: 3       Used by: 1     
+Weapon: Crossbow              Kills: 4       Used by: 1     
+Weapon: RocketLaucher         Kills: 24      Used by: 4     
+Weapon: Rock                  Kills: 2       Used by: 1     
+Weapon: Beretta               Kills: 6       Used by: 1     
+Weapon: Spear                 Kills: 5       Used by: 2     
+Weapon: Fireball              Kills: 7       Used by: 1     
+Weapon: Shotgun               Kills: 3       Used by: 1     
+Weapon: ThrowingAxes          Kills: 7       Used by: 1     
+Weapon: Dagger                Kills: 3       Used by: 1     
+Weapon: M4A1                  Kills: 4       Used by: 1     
+Weapon: M16                   Kills: 2       Used by: 1     
+
+Best Weapon: RocketLaucher - 24 total kills.
+Most Used Weapon: RocketLaucher - 4 players used it.
+-------------------------------------------------------------
+
+MATCH[5457092951257645056]
+
+PLAYERS
+Player: Shirley               Weapon: SniperRifle      Kills: 4       Deaths: 3      Streak: 1      
+Player: Jaunita               Weapon: Minigun          Kills: 6       Deaths: 3      Streak: 2      
+Player: Emelia                Weapon: DesertEagle      Kills: 4       Deaths: 4      Streak: 2      
+Player: Johnette              Weapon: ThrowingAxes     Kills: 5       Deaths: 4      Streak: 3      
+Player: Christiane            Weapon: Glock            Kills: 5       Deaths: 7      Streak: 2      
+Player: Glenn                 Weapon: Crossbow         Kills: 6       Deaths: 4      Streak: 5      
+Player: Don                   Weapon: SchmidtScout     Kills: 5       Deaths: 9      Streak: 3      
+Player: Jerrica               Weapon: SniperRifle      Kills: 5       Deaths: 3      Streak: 4      
+Player: Bobbi                 Weapon: SchmidtScout     Kills: 4       Deaths: 5      Streak: 1      
+Player: Beula                 Weapon: M4A1             Kills: 3       Deaths: 4      Streak: 1      
+Player: Chin                  Weapon: Fireball         Kills: 6       Deaths: 6      Streak: 4      
+Player: Twanna                Weapon: ThrowingAxes     Kills: 4       Deaths: 4      Streak: 2      
+Player: Nila                  Weapon: Cannon           Kills: 6       Deaths: 6      Streak: 2      
+Player: Victor                Weapon: DesertEagle      Kills: 5       Deaths: 3      Streak: 5      
+Player: Lisabeth              Weapon: Shotgun          Kills: 3       Deaths: 6      Streak: 2      
+Player: Jessie                Weapon: ThrowingAxes     Kills: 5       Deaths: 4      Streak: 3      
+Player: Merlene               Weapon: Beretta          Kills: 4       Deaths: 5      Streak: 2      
+Player: Kristian              Weapon: Fireball         Kills: 3       Deaths: 3      Streak: 3      
+
+Most Kills: Jaunita with 6 kills. A crazy murder!!
+Most Deaths: Don with 9 deaths. Little noob!!
+Most Streak: Glenn with 5 streak kills. Rambo!!
+
+WEAPONS
+Weapon: SniperRifle           Kills: 9       Used by: 2     
+Weapon: DesertEagle           Kills: 9       Used by: 2     
+Weapon: Minigun               Kills: 6       Used by: 1     
+Weapon: Glock                 Kills: 5       Used by: 1     
+Weapon: SchmidtScout          Kills: 9       Used by: 2     
+Weapon: Fireball              Kills: 9       Used by: 2     
+Weapon: ThrowingAxes          Kills: 14      Used by: 3     
+Weapon: Cannon                Kills: 6       Used by: 1     
+Weapon: Shotgun               Kills: 3       Used by: 1     
+Weapon: Crossbow              Kills: 6       Used by: 1     
+Weapon: M4A1                  Kills: 3       Used by: 1     
+Weapon: Beretta               Kills: 4       Used by: 1     
+
+Best Weapon: ThrowingAxes - 14 total kills.
+Most Used Weapon: ThrowingAxes - 3 players used it.
+-------------------------------------------------------------
+
+MATCH[971658077860265984]
+
+PLAYERS
+Player: Johnette              Weapon: Lasergun         Kills: 12      Deaths: 7      Streak: 3      
+Player: Beverlee              Weapon: SchmidtScout     Kills: 13      Deaths: 8      Streak: 5      
+Player: Margo                 Weapon: Spear            Kills: 6       Deaths: 9      Streak: 2      
+Player: Don                   Weapon: DesertEagle      Kills: 5       Deaths: 9      Streak: 1      
+Player: Chauncey              Weapon: Lasergun         Kills: 8       Deaths: 11     Streak: 3      
+Player: Ethan                 Weapon: RocketLaucher    Kills: 6       Deaths: 6      Streak: 3      
+Player: Rudy                  Weapon: M4A1             Kills: 5       Deaths: 5      Streak: 2      
+
+Most Kills: Beverlee with 13 kills. A crazy murder!!
+Most Deaths: Chauncey with 11 deaths. Little noob!!
+Most Streak: Beverlee with 5 streak kills. Rambo!!
+
+WEAPONS
+Weapon: Lasergun              Kills: 20      Used by: 2     
+Weapon: SchmidtScout          Kills: 13      Used by: 1     
+Weapon: RocketLaucher         Kills: 6       Used by: 1     
+Weapon: Spear                 Kills: 6       Used by: 1     
+Weapon: DesertEagle           Kills: 5       Used by: 1     
+Weapon: M4A1                  Kills: 5       Used by: 1     
+
+Best Weapon: Lasergun - 20 total kills.
+Most Used Weapon: Lasergun - 2 players used it.
+-------------------------------------------------------------
+
+MATCH[7155032196519034880]
+
+PLAYERS
+Player: Mafalda               Weapon: SniperRifle      Kills: 6       Deaths: 5      Streak: 4      
+Player: Kristian              Weapon: MP5Navy          Kills: 6       Deaths: 14     Streak: 2      
+Player: Johnette              Weapon: Fireball         Kills: 5       Deaths: 6      Streak: 2      
+Player: Jerrica               Weapon: Spear            Kills: 6       Deaths: 4      Streak: 2      
+Player: Larissa               Weapon: Glock            Kills: 5       Deaths: 8      Streak: 2      
+Player: Joannie               Weapon: Cannon           Kills: 10      Deaths: 6      Streak: 5      
+Player: Zulema                Weapon: RocketLaucher    Kills: 8       Deaths: 5      Streak: 3      
+Player: Glayds                Weapon: Crossbow         Kills: 10      Deaths: 7      Streak: 3      
+Player: Shirley               Weapon: RocketLaucher    Kills: 7       Deaths: 8      Streak: 3      
+Player: Juli                  Weapon: RocketLaucher    Kills: 4       Deaths: 3      Streak: 2      
+Player: Nila                  Weapon: Spear            Kills: 6       Deaths: 7      Streak: 4      
+
+Most Kills: Joannie with 10 kills. A crazy murder!!
+Most Deaths: Kristian with 14 deaths. Little noob!!
+Most Streak: Joannie with 5 streak kills. Rambo!!
+
+WEAPONS
+Weapon: SniperRifle           Kills: 6       Used by: 1     
+Weapon: Fireball              Kills: 5       Used by: 1     
+Weapon: Glock                 Kills: 5       Used by: 1     
+Weapon: Cannon                Kills: 10      Used by: 1     
+Weapon: RocketLaucher         Kills: 19      Used by: 3     
+Weapon: Crossbow              Kills: 10      Used by: 1     
+Weapon: MP5Navy               Kills: 6       Used by: 1     
+Weapon: Spear                 Kills: 12      Used by: 2     
+
+Best Weapon: RocketLaucher - 19 total kills.
+Most Used Weapon: RocketLaucher - 3 players used it.
+-------------------------------------------------------------
+
+MATCH[4445088155401453568]
+
+PLAYERS
+Player: Christiane            Weapon: MP5Navy          Kills: 11      Deaths: 10     Streak: 4      
+Player: Saul                  Weapon: Dagger           Kills: 10      Deaths: 11     Streak: 2      
+Player: Glenn                 Weapon: Rock             Kills: 11      Deaths: 9      Streak: 3      
+Player: Emelia                Weapon: Rock             Kills: 8       Deaths: 10     Streak: 3      
+
+Most Kills: Christiane with 11 kills. A crazy murder!!
+Most Deaths: Saul with 11 deaths. Little noob!!
+Most Streak: Christiane with 4 streak kills. Rambo!!
+
+WEAPONS
+Weapon: MP5Navy               Kills: 11      Used by: 1     
+Weapon: Rock                  Kills: 19      Used by: 2     
+Weapon: Dagger                Kills: 10      Used by: 1     
+
+Best Weapon: Rock - 19 total kills.
+Most Used Weapon: Rock - 2 players used it.
+-------------------------------------------------------------
+
+MATCH[6717019614674419712]
+
+PLAYERS
+Player: Don                   Weapon: Dagger           Kills: 6       Deaths: 2      Streak: 2      
+Player: Young                 Weapon: USP              Kills: 10      Deaths: 5      Streak: 5      
+Player: Ethan                 Weapon: Minigun          Kills: 10      Deaths: 7      Streak: 4      
+Player: Toni                  Weapon: Goldengun        Kills: 7       Deaths: 6      Streak: 5      
+Player: Neil                  Weapon: ThrowingAxes     Kills: 5       Deaths: 10     Streak: 3      
+Player: Josh                  Weapon: Rock             Kills: 7       Deaths: 4      Streak: 4      
+Player: Justin                Weapon: Goldengun        Kills: 8       Deaths: 7      Streak: 6      
+Player: Meggan                Weapon: SchmidtScout     Kills: 8       Deaths: 8      Streak: 2      
+Player: Huong                 Weapon: Fireball         Kills: 4       Deaths: 8      Streak: 4      
+Player: Glenn                 Weapon: Beretta          Kills: 2       Deaths: 3      Streak: 2      
+Player: Carisa                Weapon: Shuriken         Kills: 3       Deaths: 8      Streak: 1      
+Player: Chanell               Weapon: Shuriken         Kills: 3       Deaths: 5      Streak: 2      
+
+Most Kills: Young with 10 kills. A crazy murder!!
+Most Deaths: Neil with 10 deaths. Little noob!!
+Most Streak: Justin with 6 streak kills. Rambo!!
+
+WEAPONS
+Weapon: Dagger                Kills: 6       Used by: 1     
+Weapon: Minigun               Kills: 10      Used by: 1     
+Weapon: USP                   Kills: 10      Used by: 1     
+Weapon: Goldengun             Kills: 15      Used by: 2     
+Weapon: ThrowingAxes          Kills: 5       Used by: 1     
+Weapon: SchmidtScout          Kills: 8       Used by: 1     
+Weapon: Rock                  Kills: 7       Used by: 1     
+Weapon: Beretta               Kills: 2       Used by: 1     
+Weapon: Fireball              Kills: 4       Used by: 1     
+Weapon: Shuriken              Kills: 6       Used by: 2     
+
+Best Weapon: Goldengun - 15 total kills.
+Most Used Weapon: Goldengun - 2 players used it.
+-------------------------------------------------------------
+
+MATCH[5809729554717081600]
+
+PLAYERS
+Player: Kristle               Weapon: Beretta          Kills: 10      Deaths: 4      Streak: 3      
+Player: Saul                  Weapon: M4A1             Kills: 3       Deaths: 11     Streak: 1      
+Player: Josh                  Weapon: RPG              Kills: 4       Deaths: 5      Streak: 3      
+Player: Valda                 Weapon: Glock            Kills: 5       Deaths: 6      Streak: 3      
+Player: Larissa               Weapon: MP5Navy          Kills: 5       Deaths: 2      Streak: 3      
+Player: Emelia                Weapon: USP              Kills: 5       Deaths: 7      Streak: 1      
+Player: Bobbi                 Weapon: DesertEagle      Kills: 6       Deaths: 8      Streak: 4      
+Player: Neil                  Weapon: SniperRifle      Kills: 4       Deaths: 3      Streak: 3      
+Player: Jaunita               Weapon: Lasergun         Kills: 3       Deaths: 6      Streak: 1      
+Player: Meggan                Weapon: AK47             Kills: 3       Deaths: 3      Streak: 1      
+Player: Chauncey              Weapon: Spear            Kills: 3       Deaths: 5      Streak: 3      
+Player: Oliver                Weapon: RocketLaucher    Kills: 7       Deaths: 2      Streak: 4      
+Player: Chin                  Weapon: RocketLaucher    Kills: 4       Deaths: 4      Streak: 4      
+Player: Huong                 Weapon: M16              Kills: 3       Deaths: 3      Streak: 2      
+Player: Jessie                Weapon: RocketLaucher    Kills: 5       Deaths: 5      Streak: 3      
+Player: Ethan                 Weapon: ThrowingAxes     Kills: 5       Deaths: 5      Streak: 3      
+Player: Shameka               Weapon: Cannon           Kills: 8       Deaths: 3      Streak: 3      
+Player: Jodie                 Weapon: Spear            Kills: 4       Deaths: 5      Streak: 2      
+
+Most Kills: Kristle with 10 kills. A crazy murder!!
+Most Deaths: Saul with 11 deaths. Little noob!!
+Most Streak: Bobbi with 4 streak kills. Rambo!!
+
+WEAPONS
+Weapon: Beretta               Kills: 10      Used by: 1     
+Weapon: RPG                   Kills: 4       Used by: 1     
+Weapon: MP5Navy               Kills: 5       Used by: 1     
+Weapon: DesertEagle           Kills: 6       Used by: 1     
+Weapon: SniperRifle           Kills: 4       Used by: 1     
+Weapon: Glock                 Kills: 5       Used by: 1     
+Weapon: M4A1                  Kills: 3       Used by: 1     
+Weapon: RocketLaucher         Kills: 16      Used by: 3     
+Weapon: M16                   Kills: 3       Used by: 1     
+Weapon: AK47                  Kills: 3       Used by: 1     
+Weapon: Lasergun              Kills: 3       Used by: 1     
+Weapon: USP                   Kills: 5       Used by: 1     
+Weapon: Cannon                Kills: 8       Used by: 1     
+Weapon: Spear                 Kills: 7       Used by: 2     
+Weapon: ThrowingAxes          Kills: 5       Used by: 1     
+
+Best Weapon: RocketLaucher - 16 total kills.
+Most Used Weapon: RocketLaucher - 3 players used it.
+-------------------------------------------------------------
+
+MATCH[8379258542015643648]
+
+PLAYERS
+Player: Jodie                 Weapon: USP              Kills: 7       Deaths: 7      Streak: 3      
+Player: Christiane            Weapon: SniperRifle      Kills: 8       Deaths: 10     Streak: 7      
+Player: Josh                  Weapon: M16              Kills: 7       Deaths: 6      Streak: 3      
+Player: Huong                 Weapon: Cannon           Kills: 9       Deaths: 7      Streak: 5      
+Player: Saul                  Weapon: Shuriken         Kills: 3       Deaths: 10     Streak: 2      
+Player: Shirley               Weapon: USP              Kills: 11      Deaths: 6      Streak: 6      
+Player: Margo                 Weapon: Spear            Kills: 7       Deaths: 4      Streak: 3      
+Player: Jessie                Weapon: Spear            Kills: 6       Deaths: 8      Streak: 2      
+
+Most Kills: Shirley with 11 kills. A crazy murder!!
+Most Deaths: Christiane with 10 deaths. Little noob!!
+Most Streak: Christiane with 7 streak kills. Rambo!!
+
+WEAPONS
+Weapon: USP                   Kills: 18      Used by: 2     
+Weapon: Cannon                Kills: 9       Used by: 1     
+Weapon: Shuriken              Kills: 3       Used by: 1     
+Weapon: Spear                 Kills: 13      Used by: 2     
+Weapon: M16                   Kills: 7       Used by: 1     
+Weapon: SniperRifle           Kills: 8       Used by: 1     
+
+Best Weapon: USP - 18 total kills.
+Most Used Weapon: USP - 2 players used it.
 -------------------------------------------------------------
 
