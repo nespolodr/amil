@@ -1,0 +1,70 @@
+MATCH[994325997937491968]
+
+PLAYERS
+Player: Pauline               Weapon: Catalyst         Kills: 6       Deaths: 5      Streak: 4      
+Player: Yan                   Weapon: Crossbow         Kills: 7       Deaths: 8      Streak: 3      
+Player: Neil                  Weapon: SniperRifle      Kills: 4       Deaths: 4      Streak: 3      
+Player: Jaunita               Weapon: SchmidtScout     Kills: 3       Deaths: 2      Streak: 2      
+Player: Shirley               Weapon: DesertEagle      Kills: 6       Deaths: 6      Streak: 2      
+Player: Jessie                Weapon: Catalyst         Kills: 4       Deaths: 8      Streak: 2      
+Player: Emelia                Weapon: Shotgun          Kills: 5       Deaths: 3      Streak: 2      
+Player: Young                 Weapon: Beretta          Kills: 3       Deaths: 5      Streak: 1      
+Player: Nelida                Weapon: Crossbow         Kills: 8       Deaths: 5      Streak: 6      
+Player: Johnette              Weapon: MP5Navy          Kills: 5       Deaths: 6      Streak: 2      
+Player: Jerrica               Weapon: RocketLaucher    Kills: 6       Deaths: 2      Streak: 4      
+Player: Nila                  Weapon: Glock            Kills: 4       Deaths: 3      Streak: 3      
+Player: Toni                  Weapon: Beretta          Kills: 5       Deaths: 4      Streak: 3      
+Player: Juli                  Weapon: Lasergun         Kills: 5       Deaths: 7      Streak: 2      
+Player: Huong                 Weapon: SchmidtScout     Kills: 1       Deaths: 6      Streak: 1      
+Player: Christiane            Weapon: ThrowingAxes     Kills: 4       Deaths: 4      Streak: 2      
+Player: Carisa                Weapon: Lightning        Kills: 4       Deaths: 2      Streak: 3      
+
+Most Kills: Nelida with 8 kills. A crazy murder!!
+Most Deaths: Yan with 8 deaths. Little noob!!
+Most Streak: Nelida with 6 streak kills. Rambo!!
+
+WEAPONS
+Weapon: Catalyst              Kills: 10      Used by: 2     
+Weapon: SniperRifle           Kills: 4       Used by: 1     
+Weapon: DesertEagle           Kills: 6       Used by: 1     
+Weapon: Shotgun               Kills: 5       Used by: 1     
+Weapon: Beretta               Kills: 8       Used by: 2     
+Weapon: Crossbow              Kills: 15      Used by: 2     
+Weapon: Glock                 Kills: 4       Used by: 1     
+Weapon: RocketLaucher         Kills: 6       Used by: 1     
+Weapon: Lasergun              Kills: 5       Used by: 1     
+Weapon: MP5Navy               Kills: 5       Used by: 1     
+Weapon: ThrowingAxes          Kills: 4       Used by: 1     
+Weapon: SchmidtScout          Kills: 4       Used by: 2     
+Weapon: Lightning             Kills: 4       Used by: 1     
+
+Best Weapon: Crossbow - 15 total kills.
+Most Used Weapon: Catalyst - 2 players used it.
+-------------------------------------------------------------
+
+MATCH[2743859004450013184]
+
+PLAYERS
+Player: Kristian              Weapon: Catalyst         Kills: 6       Deaths: 12     Streak: 1      
+Player: Emelia                Weapon: Dagger           Kills: 3       Deaths: 12     Streak: 1      
+Player: Oliver                Weapon: M16              Kills: 6       Deaths: 9      Streak: 2      
+Player: Larissa               Weapon: Minigun          Kills: 13      Deaths: 5      Streak: 4      
+Player: Toni                  Weapon: ThrowingAxes     Kills: 9       Deaths: 6      Streak: 2      
+Player: Zulema                Weapon: USP              Kills: 12      Deaths: 5      Streak: 6      
+
+Most Kills: Larissa with 13 kills. A crazy murder!!
+Most Deaths: Kristian with 12 deaths. Little noob!!
+Most Streak: Zulema with 6 streak kills. Rambo!!
+
+WEAPONS
+Weapon: Catalyst              Kills: 6       Used by: 1     
+Weapon: M16                   Kills: 6       Used by: 1     
+Weapon: Minigun               Kills: 13      Used by: 1     
+Weapon: USP                   Kills: 12      Used by: 1     
+Weapon: ThrowingAxes          Kills: 9       Used by: 1     
+Weapon: Dagger                Kills: 3       Used by: 1     
+
+Best Weapon: Minigun - 13 total kills.
+Most Used Weapon: Catalyst - 1 players used it.
+-------------------------------------------------------------
+
